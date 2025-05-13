@@ -260,9 +260,6 @@ const Header: React.FC = () => {
                   onClick={() => setIsOpen(false)}
                   aria-label="Cart"
                 >
-                  <span className="absolute -top-2 -right-2 bg-[#d33b38] text-white text-xs font-bold rounded-full w-5 h-5 flex items-center justify-center">
-                    3
-                  </span>
                 </Link>
               </div>
             </div>
